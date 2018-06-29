@@ -8,21 +8,3 @@ h1,h2,h3
 	  line-height:1.2;
  }
 
-h1,h2,h3
- {
-    color: green;
- }
-p
- {
-    color: blue;
- }
-
-p
- {
-    font-family: "Papyrus";
- }
-
- h1,h2,h3
-  {
-     font-family: "comic sans ms";
-  }
